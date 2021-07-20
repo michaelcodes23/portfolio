@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Meal Ideation App",
+    "live": "https://michaelcodes23.github.io/Meal_Ideation_Center/",
+    "git": "https://github.com/michaelcodes23/Meal_Ideation_Center",
+    "image": "https://camo.githubusercontent.com/e41f85424718807010f9bf71830f30080559a78d13ea5c28d8296d14a450b10b/68747470733a2f2f692e696d6775722e636f6d2f684643436a656c2e6a7067"
+  },
+  {
+    "name": "Investment Goal Simulation App",
+    "live": "https://investforecast.herokuapp.com/invest/",
+    "git": "https://github.com/michaelcodes23/Investment_Forecast",
+    "image": "https://camo.githubusercontent.com/2c9e1e086a620fd2a3784681beda8a28c42a1f52030cc0c1ab000e2ad0e421c9/68747470733a2f2f696d6775722e636f6d2f574b6773664e342e6a7067"
+  }
+]

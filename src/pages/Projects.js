@@ -32,7 +32,7 @@ function Projects (props) {
     //define a function that will return the JSX needed once we get the data
 
         return (
-        <>
+        <div className= "container projects">
             {/* <h1>props[0].name</h1> */}
             {props.info.map((project, index)=> (
             <div>
@@ -48,7 +48,7 @@ function Projects (props) {
                 
             ))
             }
-        </>
+        </div>
         )
 }
 

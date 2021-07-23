@@ -1,5 +1,11 @@
 [
   {
+    "name": "Lyrios, a Music Video Lyrical Experience",
+    "live": "https://lyrios-music-frontend.herokuapp.com/",
+    "git": "https://github.com/michaelcodes23/Lyrios-frontend",
+    "image": "https://camo.githubusercontent.com/6bbc8fb1d7723c2f5dd27a3a4168b940e1a4555827f1b31aefc51edaac4af5c5/68747470733a2f2f692e696d6775722e636f6d2f6e50476f34716e2e706e67"
+  },
+  {
     "name": "Meal Ideation App",
     "live": "https://michaelcodes23.github.io/Meal_Ideation_Center/",
     "git": "https://github.com/michaelcodes23/Meal_Ideation_Center",

@@ -8,11 +8,14 @@ console.log(props.info.name)
 
   // define a function that will return the JSX needed once we get the data
   const loaded = () => (
-    <div>
- 
-      <h2>{props.info.name}</h2>
-      <a href= {props.info.linkedin} ><h3>Linkedin</h3></a>
+    <div className= "container about">
+      <h2>Why SE?</h2>
       <p>{props.info.bio}</p>
+      <h2>Education</h2>
+      <p>Baruch BBA & GA Education</p>
+      <h2>Technologies</h2>
+      <p>Javascript, Python, React, etc.</p>
+      <h2>Resume</h2>
 
       
     </div>

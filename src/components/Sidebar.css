@@ -5,7 +5,13 @@
     justify-content: start;
     align-items: center;
 }
-
+.menu-text{
+    font-size: .75rem;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding-bottom: 1em;
+}
 .menu-bars{
     margin-left: 2rem;
     font-size: 2rem;

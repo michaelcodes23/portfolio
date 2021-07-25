@@ -20,6 +20,7 @@ function Sidebar() {
             <div className="navbar">
                 <Link to="#" className='menu-bars'>
                     <FaIcons.FaBars onClick= {showSidebar}/>
+                    <p className='menu-text'>Menu</p>
                 </Link>
             </div>
             <nav className={ sidebar ? 'nav-menu active' : 'nav-menu'}>

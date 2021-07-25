@@ -1,3 +1,4 @@
+import * as SiIcons from 'react-icons/si';
 function Footer (props){
     return (
         <>
@@ -13,7 +14,9 @@ function Footer (props){
                 </a>
             </li>
             <li class = "contact-item"> 
-                <a href = "mailto:cuencamich@gmail.com" id = "icon"><strong>cuencamich@gmail.com</strong></a>
+                <a href = "mailto:cuencamich@gmail.com" id = "icon">
+                <SiIcons.SiGmail class = 'fa-2x'/>
+                </a>
             </li>
         </ul>
         </>

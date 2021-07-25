@@ -2,6 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+
 }
 :root {
   --black: #000000;
@@ -15,6 +16,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #C2CAD0;
 }
 /* Top Nav bar */
 
@@ -71,15 +73,19 @@ code {
   display: inline-block;
   margin: 10px;
 }
-.home-intro{
+/* .home-intro{
   max-width: 50%;
-}
+} */
 .home-image{
-  flex-grow: 3;
+  grid-area: img;
+  max-width: 200px;
+  /* position: relative; */
+  /* z-index: 2; */
+  box-shadow: var(--bs);
 }
 .home-body{
   margin-top: 2em;
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   border-style: dotted;
   border-color: black;
